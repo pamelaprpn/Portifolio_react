@@ -1,0 +1,12 @@
+
+.footer_container{
+    padding: 2em 0;
+    background: var(--color-destaque);
+    
+}
+
+.footer{
+    color: var(#96a9a7);
+    background: var(--color-destaque);
+    text-align: center;
+}
