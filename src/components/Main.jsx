@@ -22,11 +22,11 @@ export default function Main() {
                     <ul className="contact_list" >
                         <li className="contact_item">
                             <img className="contact_item_img" src={linkedin} alt="Linkedin" />
-                            <a className="contact_item_ancora" href="#">Linkedin</a>
+                            <a className="contact_item_ancora" href="https://www.linkedin.com/in/pamela-raiane/">Linkedin</a>
                         </li>
                         <li className="contact_item" >
                             <img className="contact_item_img" src={gitHub} alt="GitHub" />
-                            <a className="contact_item_ancora" href="#">GitHub</a>
+                            <a className="contact_item_ancora" href="https://github.com/pamelaprpn">GitHub</a>
                         </li>
                     </ul>
                 </section>

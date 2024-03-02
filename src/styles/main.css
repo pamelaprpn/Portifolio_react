@@ -9,6 +9,9 @@
     gap: 20px;
 }
 
+.about_me{
+    width: 50%;
+}
 .description_title{
     color: var(--color-destaque);
     font-size: 500;
@@ -21,6 +24,10 @@
 
 .description_text{
     color: var(--color-destaque);
+}
+
+.description_img{
+    padding-left: 10em;
 }
 
 .contact_list{
